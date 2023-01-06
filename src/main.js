@@ -6,6 +6,8 @@ import router from './router'
 
 import './assets/main.css'
 
+console.log('sdsad');
+
 const app = createApp(App)
 
 app.use(createPinia())
